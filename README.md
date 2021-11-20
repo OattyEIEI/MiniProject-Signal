@@ -22,6 +22,8 @@
 - การเซฟ สามารถบันทึกรูปกราฟได้โดยลากเมาส์ไปวางในตำแหน่งไอคอน ที่เป็นรูป สี่เหลี่มผืนผ้าและมีลูกศรชี้ขึ้นก็จะปรากฎไอคอนรูปแผ่นดิสก์ กดคลิกไอคอนรูปดิสก์ก็จะสามารถทำการบันทึกได้
 
 ## เอกสารอ้างอิงที่มาของสูตรการคำนวนการวาดกราฟ
-https://en.m.wikipedia.org/wiki/Sine_wave
-https://www.mathworks.com/matlabcentral/answers/378709-how-to-generate-square-wave-in-matlab-with-frequency-amplitude-voltage-offset-dutycycle
-https://www.mathworks.com/matlabcentral/answers/508071-how-to-create-a-sine-and-triangle-waves-with-frequency-modulation-of-0-5-hz-and-peak-to-peak-voltage
+- https://en.m.wikipedia.org/wiki/Sine_wave
+
+- https://www.mathworks.com/matlabcentral/answers/378709-how-to-generate-square-wave-in-matlab-with-frequency-amplitude-voltage-offset-dutycycle
+
+- https://www.mathworks.com/matlabcentral/answers/508071-how-to-create-a-sine-and-triangle-waves-with-frequency-modulation-of-0-5-hz-and-peak-to-peak-voltage
