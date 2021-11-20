@@ -10,6 +10,10 @@
     5. ตั้งค่าเวลาที่ต้องการให้วาดกราฟออกมา โดยเลื่อน slider  
     6. แสดงกราฟที่ได้จากค่าที่ใส่ไป
 ![image](https://user-images.githubusercontent.com/66737255/142727005-6c3a8677-c1a7-464f-9957-e624cee667cc.png)
+
+# โค้ดสำหรับสูตรการวาดกราฟชนิดต่างๆ
+![image](https://user-images.githubusercontent.com/66737255/142727231-608fa565-42d4-4c86-8c1d-64aa556fce17.png)
+
 ## การใช้งานอื่นๆ
 - สามารถซูมเข้า-ออกในรูปกราฟได้โดยการเลื่อน scroll mouse หรือใช้เครื่องมือไอคอนรูปแว่นขยาย + - คลิกที่ไอคอนแว่นขยายหนึ่งครั้งแล้วคลิกที่รูปกราฟหนึ่งครั้ง      
 - สามารถเลื่อกราฟได้ โดยทำการเลือกไอคอนรูปมือแล้วทำการคลิกเมาส์ค้างและลากไปตำแหน่งที่ต้องการ  
@@ -17,3 +21,7 @@
 - การ Restore View โดยคลิกไอคอนรูปบ้านก็จะสามารถคืนค่ามุมมองของรูปกราฟให้กลับมาเหมือนตอนแรกได้ หากทำการซูมกราฟจนดูไม่ออก  
 - การเซฟ สามารถบันทึกรูปกราฟได้โดยลากเมาส์ไปวางในตำแหน่งไอคอน ที่เป็นรูป สี่เหลี่มผืนผ้าและมีลูกศรชี้ขึ้นก็จะปรากฎไอคอนรูปแผ่นดิสก์ กดคลิกไอคอนรูปดิสก์ก็จะสามารถทำการบันทึกได้
 
+## เอกสารอ้างอิงที่มาของสูตรการคำนวนการวาดกราฟ
+https://en.m.wikipedia.org/wiki/Sine_wave
+https://www.mathworks.com/matlabcentral/answers/378709-how-to-generate-square-wave-in-matlab-with-frequency-amplitude-voltage-offset-dutycycle
+https://www.mathworks.com/matlabcentral/answers/508071-how-to-create-a-sine-and-triangle-waves-with-frequency-modulation-of-0-5-hz-and-peak-to-peak-voltage
